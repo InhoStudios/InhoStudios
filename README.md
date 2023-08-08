@@ -6,6 +6,7 @@
 ### 💡 my interests
 - game development
 - machine learning
+- computer vision
 - art/digital painting
 ### ✨ contact me
 - email: andyshenzhao@gmail.com
