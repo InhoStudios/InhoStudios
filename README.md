@@ -10,7 +10,7 @@
 - art/digital painting
 ### ✨ contact me
 - email: andyshenzhao@gmail.com
-- website: inhostudios.github.io
+- website: inho.ca
 - instagram: @nd.sz
 <!---
 InhoStudios/InhoStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
