@@ -2,7 +2,9 @@
 ## 🙋‍♂️ about me
 - andy shen/zhao
 - he/they
-- studying cs @ ubc
+- BSc. in cs @ ubc
+- pursuing master's in biomedical engineering @ ubc
+- software development team lead for the ilds dermatology gallery
 ### 💡 my interests
 - game development
 - machine learning
